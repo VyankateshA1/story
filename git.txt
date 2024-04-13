@@ -1,0 +1,28 @@
+**************git commands**************
+
+1. cd = change directory
+2. ls = check file in folder
+3. ls -a = show hidden file 
+4. mkdir <folder-name> = make new folder
+5. touch <file.name> = make new file
+6. code <file.name> = open the file 
+7. git init = initialized the git repository
+8. git status = shows the untracked and tracked files..
+9. git add <file.name> = add file to staging to tracked
+10. git add . = add all files in staging
+11. git rm --cached -r .= remove all file from staging
+12. git commit -m "<commit msg>" = add commit msg to understang change
+13. git log = shows all commits
+14. git diff <file.name> = see the previous chnages with presend changes in file
+15. git checkout <file.name> = undo the changes
+16. **<git remote add origin https://github.com/VyankateshA1/story.git>--
+<git branch -M main>--
+<git push -u origin main>** = After making emty repo then adding file(code) to git using command-line. 
+17. touch .gitignore = making the hidding file with (.).
+18. code -a .gitignore = open the hidden file for edit.
+19. *- If you want to ignore the files add those file names inside the .gitignore file with each new line-*
+20. git clone <repo.url> = to clone repo in your computer.
+21. git branch <branch.name> = make new branch
+22. git branch = to check all branches
+23. git merge <branch.name> = merge branch in main branch
+24. git checkout <branch.name> = to change branch
