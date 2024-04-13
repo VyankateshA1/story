@@ -25,4 +25,4 @@
 21. git branch <branch.name> = make new branch
 22. git branch = to check all branches
 23. git merge <branch.name> = merge branch in main branch
-24. git checkout = to change branch
+24. git checkout <branch.name> = to change branch
